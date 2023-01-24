@@ -1,0 +1,14 @@
+C:\Users\Kyan\source\repos\FinalConsoleGame\bin\Debug\netcoreapp3.1\FinalConsoleGame.exe
+C:\Users\Kyan\source\repos\FinalConsoleGame\bin\Debug\netcoreapp3.1\FinalConsoleGame.deps.json
+C:\Users\Kyan\source\repos\FinalConsoleGame\bin\Debug\netcoreapp3.1\FinalConsoleGame.runtimeconfig.json
+C:\Users\Kyan\source\repos\FinalConsoleGame\bin\Debug\netcoreapp3.1\FinalConsoleGame.runtimeconfig.dev.json
+C:\Users\Kyan\source\repos\FinalConsoleGame\bin\Debug\netcoreapp3.1\FinalConsoleGame.dll
+C:\Users\Kyan\source\repos\FinalConsoleGame\bin\Debug\netcoreapp3.1\FinalConsoleGame.pdb
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.AssemblyInfo.cs
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.dll
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.pdb
+C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.genruntimeconfig.cache
