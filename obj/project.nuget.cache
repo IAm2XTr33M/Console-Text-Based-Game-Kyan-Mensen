@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2vtabZ0UYk1mjoqUkp8PjF1HHtl9ZJxmrCb7SkKuxsAw3wTzcB4mR6loLB5K7Ol3GbQYhmVOZw6Gf1+57Moupw==",
+  "dgSpecHash": "F0C1ETnNCjAoMkkZsEaSdevTVsfroX1BU1eN3/9ZxFOgDbAW/VzAI3B/t/NTSQMA9TFGAW/sA2PCW/LEnc95SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kyan\\source\\repos\\FinalConsoleGame\\FinalConsoleGame.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Kynooi\\Documents\\GitHub\\Console-Text-Based-Game-Kyan-Mensen\\FinalConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kynooi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kynooi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kynooi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kynooi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

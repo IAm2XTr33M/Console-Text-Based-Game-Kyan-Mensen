@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kyan\\source\\repos\\FinalConsoleGame\\FinalConsoleGame.csproj": {}
+    "C:\\Users\\Kynooi\\Documents\\GitHub\\Console-Text-Based-Game-Kyan-Mensen\\FinalConsoleGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kyan\\source\\repos\\FinalConsoleGame\\FinalConsoleGame.csproj": {
+    "C:\\Users\\Kynooi\\Documents\\GitHub\\Console-Text-Based-Game-Kyan-Mensen\\FinalConsoleGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kyan\\source\\repos\\FinalConsoleGame\\FinalConsoleGame.csproj",
+        "projectUniqueName": "C:\\Users\\Kynooi\\Documents\\GitHub\\Console-Text-Based-Game-Kyan-Mensen\\FinalConsoleGame.csproj",
         "projectName": "FinalConsoleGame",
-        "projectPath": "C:\\Users\\Kyan\\source\\repos\\FinalConsoleGame\\FinalConsoleGame.csproj",
-        "packagesPath": "C:\\Users\\Kyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kyan\\source\\repos\\FinalConsoleGame\\obj\\",
+        "projectPath": "C:\\Users\\Kynooi\\Documents\\GitHub\\Console-Text-Based-Game-Kyan-Mensen\\FinalConsoleGame.csproj",
+        "packagesPath": "C:\\Users\\Kynooi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kynooi\\Documents\\GitHub\\Console-Text-Based-Game-Kyan-Mensen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kynooi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,16 +49,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

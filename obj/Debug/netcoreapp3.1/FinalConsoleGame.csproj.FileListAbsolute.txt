@@ -12,3 +12,17 @@ C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsole
 C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.dll
 C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.pdb
 C:\Users\Kyan\source\repos\FinalConsoleGame\obj\Debug\netcoreapp3.1\FinalConsoleGame.genruntimeconfig.cache
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\bin\Debug\netcoreapp3.1\FinalConsoleGame.exe
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\bin\Debug\netcoreapp3.1\FinalConsoleGame.deps.json
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\bin\Debug\netcoreapp3.1\FinalConsoleGame.runtimeconfig.json
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\bin\Debug\netcoreapp3.1\FinalConsoleGame.runtimeconfig.dev.json
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\bin\Debug\netcoreapp3.1\FinalConsoleGame.dll
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\bin\Debug\netcoreapp3.1\FinalConsoleGame.pdb
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.AssemblyInfo.cs
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.dll
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.pdb
+C:\Users\Kynooi\Documents\GitHub\Console-Text-Based-Game-Kyan-Mensen\obj\Debug\netcoreapp3.1\FinalConsoleGame.genruntimeconfig.cache
